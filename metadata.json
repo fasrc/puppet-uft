@@ -1,0 +1,14 @@
+{
+  "name": "fasrc/uft",
+  "version": "0.1.0",
+  "author": "fasrc",
+  "summary": "install and configure login space user limits based on https://github.com/BYUHPC/uft",
+  "license": "Apache 2.0",
+  "source": "https://github.com/fasrc/puppet-uft",
+  "project_page": "https://github.com/fasrc/puppet-uft",
+  "issues_url": "https://github.com/fasrc/puppet-uft/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
